@@ -17,6 +17,8 @@ The aim of this analysis if to automatically find area of city with biggest dens
 
 ## >> Results.
 
+!(https://github.com/mar-szymel/Coursera_Capstone/blob/master/files/map1.png)
+
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
