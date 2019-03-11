@@ -11,6 +11,11 @@ The aim of this analysis if to automatically find area of city with biggest dens
 
 ## >> Data used to solve the problem and the source of the data.
 
+* Scraped list of postal codes in Warsaw: http://www.kody-pocztowe.dokladnie.com/ There are more than 4k of them, so I used sample of them.
+
+* After we get postal codes we can geocode them and get latitudes and longitutes for map visualisation.
+
+* Finally Foursquare location data - via Foursqare API we can obtain POI with categories, like restaurants, shops, parks etc..
 
 ## >> Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
 
