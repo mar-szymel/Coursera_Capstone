@@ -1,6 +1,6 @@
 # Coursera Capston Full Report:
 
-## Introduction where you discuss the business problem and who would be interested in this project.
+## >> Introduction - business problem.
 
 Assume you are a global investor in field of gastronomy and you are looking to open a chain of restaurants in biggest cities in Europe. Many cities...
 
@@ -9,16 +9,16 @@ Obviously you don not know every single city, and actually don't know where to l
 The aim of this analysis if to automatically find area of city with biggest density of restaurants and nightlife facilities using segmentation. I'll be profiling districts of Warsaw (capital city of Poland) as a small prof of concept because I know the city and can verify whether findings from segmentation looks reasonable or not.
 
 
-## Data where you describe the data that will be used to solve the problem and the source of the data.
+## >> Data used to solve the problem and the source of the data.
 
 
-## Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
+## >> Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
 
 
-## Results section where you discuss the results.
+## >> Results.
 
 
-## Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+## >> Discussion - observations / recommendations based on the results.
 
 
-## Conclusion section where you conclude the report.
+## >> Conclusion.
