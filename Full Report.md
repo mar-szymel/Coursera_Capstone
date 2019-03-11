@@ -45,8 +45,6 @@ After that preprocessing stage I've used K-means algorythym from scikit to find 
 
 Then I'll profile each cluster and look at percentage of categories among 1st most common vanues - see wether cluster contains a lot of restaurants etc, or other types of venues prevail.
 
-![bar1](https://github.com/mar-szymel/Coursera_Capstone/blob/master/files/bar_c1.png)
-
 
 
 ## >> Results - findings about clusters:
