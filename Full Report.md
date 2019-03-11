@@ -17,6 +17,8 @@ The aim of this analysis if to automatically find area of city with biggest dens
 
 ## >> Results.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ## >> Discussion - observations / recommendations based on the results.
 
